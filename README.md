@@ -1,6 +1,6 @@
 # Govulnapi
 
-Govulnapi is a deliberately vulnerable API written in Go showcasing common security flaws that are made while developing an application backend. Govulnapi aims be be concise in respect to vulnerabilities it implements as to lower the entry barrier for junior security researchers (e.g. "Use of Weak Hash" weakness can be found in the codebase by searching for a comment containing its corresponding id CWE-328).
+Govulnapi is a deliberately vulnerable API written in Go showcasing common security flaws that are made while developing an application backend. Govulnapi aims be be concise in respect to vulnerabilities it implements as to lower the entry barrier for junior security researchers (e.g. "Use of Weak Hash" weakness can be found in the codebase by searchting for a comment containing its corresponding id CWE-328).
 
 ## Setup
 
